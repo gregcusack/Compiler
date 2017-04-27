@@ -1,0 +1,14 @@
+keyword:int
+identifier:main
+operator:(
+keyword:void
+operator:)
+operator:{
+identifier:printf
+operator:(
+string:"hello world%c"
+operator:,
+character:'\n'
+operator:)
+operator:;
+operator:}
